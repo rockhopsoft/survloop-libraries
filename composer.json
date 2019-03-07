@@ -1,0 +1,27 @@
+{
+    "name": "wikiworldorder/survloop-libraries",
+    "description": "This is for third-party libraries used by SurvLoop which don't have an existing Packagist package.",
+    "keywords": [
+    	"SurvLoop", 
+    	"survey", 
+    	"database designer", 
+    	"user experience", 
+    	"forms", 
+    	"mobile friendly", 
+    	"mobile first", 
+    	"branching tree",
+    	"nodes",
+    	"content management system",
+    	"open source",
+    	"Laravel"
+    ],
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Morgan Lesko",
+            "homepage": "https://github.com/wikiworldorder/survloop",
+            "email": "wikiworldorder@protonmail.com",
+            "role": "Developer"
+        }
+    ],
+}
