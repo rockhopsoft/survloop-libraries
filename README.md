@@ -22,6 +22,10 @@ parallax.js v1.5.0 (http://pixelcog.github.io/parallax.js/)
 @copyright 2016 PixelCog, Inc.
 @license MIT (https://github.com/pixelcog/parallax.js/blob/master/LICENSE)
 
+popper.js v1.12.9 (https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js)
+Copyright (C) Federico Zivolo 2017
+Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT)
+
 TypeWatch 2.2.1
 Examples/Docs: github.com/dennyferra/TypeWatch
 Copyright(c) 2014
