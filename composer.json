@@ -1,5 +1,5 @@
 {
-    "name": "wikiworldorder/survloop-libraries",
+    "name": "rockhopsoft/survloop-libraries",
     "description": "This is for third-party libraries used by SurvLoop which don't have an existing Packagist package.",
     "keywords": [
     	"SurvLoop", 
@@ -19,7 +19,7 @@
     "authors": [
         {
             "name": "Morgan Lesko",
-            "homepage": "https://github.com/wikiworldorder/survloop",
+            "homepage": "https://github.com/rockhopsoft/survloop",
             "email": "wikiworldorder@protonmail.com",
             "role": "Developer"
         }

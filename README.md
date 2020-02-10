@@ -1,4 +1,4 @@
-# WikiWorldOrder/SurvLoop-Libraries
+# RockHopSoft/SurvLoop-Libraries
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -8,7 +8,7 @@ web-based problems.
 
 This package is a container for copies of third-party code which is otherwise challenging to easily install and
 integrate with each SurvLoop installation. It is required and included by the 
-<a href="https://github.com/wikiworldorder/survloop">master SurvLoop package</a>.
+<a href="https://github.com/rockhopsoft/survloop">master SurvLoop package</a>.
 
 # Table of Contents
 * [Documentation](#documentation)
