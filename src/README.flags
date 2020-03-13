@@ -1,0 +1,20 @@
+The flags currently used by xrmap come for a large part from the SVG flags
+of the openclipart collection
+    http://www.openclipart.org
+with some minor modifications and replacements.
+
+They have been completed so as to include all data needed by xrmap, e.g. 
+all US and Canadian State flags, and all other American, Australian, 
+British, Canadian, Danish and French dependencies and territories -
+in total about 50 additional flags.
+
+These additional SVG flags have either been compiled from public domain 
+sources, or obtained by various other tools (noticeably 'potrace',
+used to convert bitmap flags into vector format, see e.g. usa_florida.svg
+which was obtained in this way). We release them in the public domain
+(unless this would contradict the original license, but we are unaware of
+any such case).
+    
+The 'buildflags' main use is to process the collection of  source SVG flags 
+and convert them into other formats. This requires inkscape version >= 0.42
+    
