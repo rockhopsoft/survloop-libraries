@@ -1,8 +1,8 @@
 {
     "name": "rockhopsoft/survloop-libraries",
-    "description": "This is for third-party libraries used by SurvLoop which don't have an existing Packagist package.",
+    "description": "This is for third-party libraries used by Survloop which don't have an existing Packagist package.",
     "keywords": [
-    	"SurvLoop", 
+    	"Survloop", 
     	"survey", 
     	"database designer", 
     	"user experience", 

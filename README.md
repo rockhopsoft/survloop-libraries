@@ -1,14 +1,14 @@
-# RockHopSoft/SurvLoop-Libraries
+# RockHopSoft/Survloop-Libraries
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-SurvLoop is a Laravel-based engine for websites dominated by the collection and publication of open data. 
+Survloop is a Laravel-based engine for websites dominated by the collection and publication of open data. 
 This is a database design and survey generation system, though it will increasingly be a flexible tool to solve many 
 web-based problems.
 
 This package is a container for copies of third-party code which is otherwise challenging to easily install and
-integrate with each SurvLoop installation. It is required and included by the 
-<a href="https://github.com/rockhopsoft/survloop">master SurvLoop package</a>.
+integrate with each Survloop installation. It is required and included by the 
+<a href="https://github.com/rockhopsoft/survloop">master Survloop package</a>.
 
 # Table of Contents
 * [Documentation](#documentation)
@@ -52,8 +52,8 @@ Please report any issue you find in the issues page.
 
 # <a name="security-help"></a>Reporting a Security Vulnerability
 
-We want to ensure that SurvLoop is a secure HTTP open data platform for everyone. 
-If you've discovered a security vulnerability in the SurvLoop software or SurvLoop.org, 
+We want to ensure that Survloop is a secure HTTP open data platform for everyone. 
+If you've discovered a security vulnerability in the Survloop software or Survloop.org, 
 we appreciate your help in disclosing it to us in a responsible manner.
 
 Publicly disclosing a vulnerability can put the entire community at risk. 
