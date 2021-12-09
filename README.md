@@ -18,13 +18,18 @@ integrate with each Survloop installation. It is required and included by the
 
 # <a name="documentation"></a>Documentation: Included Libraries
 
-parallax.js v1.5.0 (http://pixelcog.github.io/parallax.js/)
-@copyright 2016 PixelCog, Inc.
-@license MIT (https://github.com/pixelcog/parallax.js/blob/master/LICENSE)
-
-popper.js v1.12.9 (https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js)
+popper.js v2.10.2 (https://unpkg.com/@popperjs/core@2)
 Copyright (C) Federico Zivolo 2017
 Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT)
+
+atomiks/tippyjs v6.3.4 (https://unpkg.com/tippy.js@6)
+https://atomiks.github.io/tippyjs
+https://github.com/atomiks/tippyjs
+
+
+chart.js (v3.6.0) (https://www.jsdelivr.com/package/npm/chart.js)
+https://www.chartjs.org/
+
 
 TypeWatch 2.2.1
 Examples/Docs: github.com/dennyferra/TypeWatch
@@ -35,12 +40,18 @@ Dual licensed under the MIT and GPL licenses:
 http://www.opensource.org/licenses/mit-license.php
 http://www.gnu.org/licenses/gpl.html
 
-Copy To Clipboard
+Copy To Clipboard:
 http://stackoverflow.com/questions/22581345/click-button-copy-to-clipboard-using-jquery
 
 KMZ data for U.S. States
 
+Password Strength Estimator:
 https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/
+
+parallax.js v1.5.0 (http://pixelcog.github.io/parallax.js/)
+@copyright 2016 PixelCog, Inc.
+@license MIT (https://github.com/pixelcog/parallax.js/blob/master/LICENSE)
+
 
 # <a name="change-logs"></a>Change Logs
 
